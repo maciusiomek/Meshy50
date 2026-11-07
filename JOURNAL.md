@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 1 | 10.53h | 5 |
+| Week 5 | Tier 1 | 10.55h | 5 |
 
 ## Contents
 
@@ -68,7 +68,7 @@ Also I worked for 45 min at school in the workshop so I added 0.75h. For proof h
 
 ### 2026-11-05: Made the enclosure today!
 
-**2h**
+**2.02h**
 
 Made the enclosure today!
 
@@ -77,9 +77,11 @@ So yeah, it's going to look like something bellow. It's dimensions are 35x40x95m
 
 ![Meshy50_2026-Nov-05_08-59-33PM-000_CustomizedView17218979127](https://halflife.hackclub-assets.com/sessions/vhPuIXXulHs6LeuYMclarNIsOTRiD2p5/616079361eb1fdf1fa12cd8a7040009d476120d40a397bfda64f99c16f73b915.png)
 
-Oh, also my lapse broke today for some reason :/ I worked for 2h (I finished up the enclosure in like 15 minutes after stopping lapse) but when I uploaded the timelapse, something just went wrong. Screenshot for proof that I really worked for that time:
+Oh, also my lapse broke today for some reason :/ I worked for 2h (I finished up the enclosure in like 15-20 minutes after stopping lapse) but when I uploaded the timelapse, something just went wrong. Screenshot for proof that I really worked for that time:
 
 ![image](https://halflife.hackclub-assets.com/sessions/vhPuIXXulHs6LeuYMclarNIsOTRiD2p5/9c3778cb8954189cbc257375480c54e17a4608bb4ab428cb905e4fa1fe3a2148.png)
+
+[Timelapse](https://lookout.hackclub.com/api/media/b945e19d-4bd8-49a2-891c-4a6a8fe7c993/video.mp4)
 
 ### 2026-11-06: Did a little bit of final CAD today!
 
