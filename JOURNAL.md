@@ -94,3 +94,5 @@ I added some holes to the back where I'll be putting a 20mm strap. I mean it's t
 Also lapse is down for maintenance, if I'll remember then I'll modify this journal tomorrow. Screenshot for proof that I worked for 40 min:
 
 ![image](https://halflife.hackclub-assets.com/sessions/vhPuIXXulHs6LeuYMclarNIsOTRiD2p5/2d76f7fd2b420357949479771af0139a1f204b8b9f1878684dbeef859884260f.png)
+
+[Timelapse](https://lookout.hackclub.com/api/media/8c193bd5-176c-4984-bff3-01e1fe3e40ea/video.mp4)
